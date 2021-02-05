@@ -1,7 +1,0 @@
-name = "Nbdev"
-#uuid = "a638fb9c-bedd-4dfc-8d67-050e11823cc0"
-authors = ["pal, <satyabrata.pal@fisglobal.com>"]
-version = "0.1.0"
-
-[deps]
-Publish = "f065f642-d108-4f50-8aa5-6749150a895a"
